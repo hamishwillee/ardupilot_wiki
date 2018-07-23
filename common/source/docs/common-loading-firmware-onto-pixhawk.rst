@@ -15,7 +15,7 @@ These instructions will show you how to download the latest firmware onto the fl
 Connect flight controller to computer
 =====================================
 
-Once you've :ref:`installed a ground station <common-install-mission-planner>` on your computer, connect
+Once you've :ref:`installed a ground station <common-install-gcs>` on your computer, connect
 the flight controller using the micro USB cable as shown
 below. Use a direct USB port on your computer (not a USB hub).
 
@@ -63,7 +63,7 @@ bootloader accepts requests to upload new firmware).
 
 If all goes well you will see some status appear on the bottom right
 including the words, "erase...", "program...", "verify.." and "Upload
-Done".  The firmware has been succesfully uploaded to the board.
+Done".  The firmware has been successfully uploaded to the board.
 
 Testing
 =======
